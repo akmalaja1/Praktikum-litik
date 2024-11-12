@@ -20,7 +20,7 @@ def hitung_total_dan_rata_rata():
             total += angka    
             count += 1       
         else:
-            print("harap masukkan angka.")
+            print("masukin angka yg bener")
               
     if count > 0:
         rata_rata = total / count  
